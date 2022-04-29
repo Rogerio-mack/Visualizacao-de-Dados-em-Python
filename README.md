@@ -5,8 +5,8 @@ Acesse [aqui](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html)
 
 
 <p align="right">
-  <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/1.png" width="30%" align="center"/>
-  <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/2.png" width="30%" align="center"/>
+  <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/1.png" width="30%" align="left"/>
+  <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/2.png" width="30%" align="left"/>
 </p>
 
 
