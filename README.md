@@ -1,7 +1,7 @@
 # Visualizacao-de-Dados-em-Python
 Pré Print Visualização de Dados em Python - Code, Atualizações e Add-ons
 
-Para adquirir o livro físico ou digital acesse https://www.mackenzie.br/editora/livro/n/a/i/visualizacao-de-dados-com-python e contribua para podermos manter a criação de materiais como este. Acesse [aqui](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) o conteúdo no formato de livro do Jupyter Book, ou [aqui](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/capa.ipynb) para o índice dos capítulos no GitHub.
+Para adquirir o livro físico ou digital acesse [Editora Mackenzie](https://www.mackenzie.br/editora/livro/n/a/i/visualizacao-de-dados-com-python), [Amazon](https://www.amazon.com.br/VISUALIZA%C3%87%C3%83O-DADOS-PYTHON-ROGERIO-OLIVEIRA/dp/655545511X) ou [Martins Fontes](https://www.martinsfontespaulista.com.br/visualizacao-de-dados-com-python-997336/p) e contribua para podermos manter a criação de materiais como este. Acesse [aqui](http://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) o conteúdo no formato de livro do Jupyter Book, ou [aqui](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/blob/main/capa.ipynb) para o índice dos capítulos no GitHub.
 
 
 
